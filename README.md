@@ -41,5 +41,5 @@ Trading and business management software.
 - HackerRank C#
 
 ## Connect With Me
-- LinkedIn: [your profile]
-- Email: [your email]
+- LinkedIn: (https://www.linkedin.com/in/takudzwa-muchochomi/)
+- Email: muchomichael2@gmail.com
